@@ -1,7 +1,9 @@
-import {page, styleSheet} from "vasille-web";
+import {page, styleSheet} from "steel-frame";
 
 export default page(async () => {
-  <div class={styles.styled}>Welcome to Vasille example</div>;
+  <div class={styles.styled}>
+    Welcome to Vasille example
+  </div>;
 });
 
 const styles = styleSheet({

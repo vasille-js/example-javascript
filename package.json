@@ -4,13 +4,13 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vasille-web dev",
-    "build": "vasille-web build spa"
+    "dev": "web dev",
+    "build": "web build spa"
   },
   "devDependencies": {
-    "vasille-web-cli": "^4.0.1"
+    "vasille-web-cli": "^5.0.0"
   },
   "dependencies": {
-    "vasille-web": "^4.0.0"
+    "steel-frame": "^5.0.1"
   }
 }
