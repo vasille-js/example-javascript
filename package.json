@@ -1,5 +1,5 @@
 {
-  "name": "vasille-web-javascript-example",
+  "name": "steel-frame-javascript-example",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,10 +7,7 @@
     "dev": "web dev",
     "build": "web build spa"
   },
-  "devDependencies": {
-    "vasille-web-cli": "^5.0.0"
-  },
   "dependencies": {
-    "steel-frame": "^5.0.1"
+    "steel-frame": "^7.0.3"
   }
 }

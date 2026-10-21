@@ -2,7 +2,7 @@ import {page, styleSheet} from "steel-frame";
 
 export default page(async () => {
   <div class={styles.styled}>
-    Welcome to Vasille example
+    Welcome to Steel Frame example
   </div>;
 });
 
